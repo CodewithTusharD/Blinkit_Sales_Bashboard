@@ -1,4 +1,4 @@
-# Blinkit_Sales_Bashboard
+# Blinkit_Sales_Dashboard
 
 ### **Interactive Sales Dashboard for Blinkit**
 - Designed and developed a **Power BI Dashboard** using Blinkit's sales data from Excel to visualize and analyze key business metrics.
